@@ -46,7 +46,7 @@ Production-grade ML platform for **real-time loan default prediction with explai
 - Streamlit interactive dashboard  
 - Modular ML pipeline architecture  
   
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Add+Your+Dashboard+Screenshot)
+![Dashboard Preview](assets/dashboard.png)
 
 ---
 
