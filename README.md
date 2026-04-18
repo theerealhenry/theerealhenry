@@ -103,13 +103,10 @@ Production-grade ML platform for **real-time loan default prediction with explai
 ### 💳 Credit Risk ML Platform  
 End-to-end ML system with SHAP explainability and real-time deployment  
 
-### 📊 Customer Churn Prediction  
-Feature engineering + predictive modeling for retention strategy  
+### 📊 Predicting SME Financial Health using Machine Learning  
+A production-ready machine learning pipeline for predicting SME Financial Health categories using ensemble modeling, probability blending, and threshold optimization.  
 
-### ⚙️ ML API Service  
-FastAPI-based model deployment (scalable inference layer)  
-
-### 📈 Data Analytics Dashboard  
+### 📈 Exploratory Data Analysis Dashboard  
 Interactive insights using Python + visualization tools  
 
 ---
@@ -144,7 +141,7 @@ Interactive insights using Python + visualization tools
 
 🌐 **Portfolio Website:** https://www.datascienceportfol.io/otsyulahenry  
 💼 **LinkedIn:** https://linkedin.com/in/henry-otsyula-datascientist  
-📧 **Email:** henryotsyula01.com  
+📧 **Email:** henryotsyula01@gmail.com  
 
 🚀 Open to opportunities in:
 - Data Science  
