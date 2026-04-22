@@ -2,7 +2,7 @@
 <!-- 🧠 ELITE GITHUB PROFILE -->
 <!-- ======================= -->
 
-# 👋 Hi, I'm Henry Otsyula
+# 👋 Hi, I'm Henry
 
 ### 🚀 Senior Data Scientist | Machine Learning Engineer
 
