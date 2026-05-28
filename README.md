@@ -50,7 +50,7 @@ Currently focused on financial risk intelligence for emerging markets.
 ![SHAP dependence](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/SHAP_dependence_plot_for_balance_slope.png)
 
 **SHAP Theme Importance**
-![SHAP themes](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/shap_theme_importance.png)
+![SHAP themes](https://github.com/theerealhenry/theerealhenry/blob/main/assets/shap_theme_importance.png)
 
 **Live Swagger UI**
 ![Swagger](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/swagger_ui.png)
