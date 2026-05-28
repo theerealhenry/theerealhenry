@@ -56,7 +56,7 @@ Currently focused on financial risk intelligence for emerging markets.
 ![Swagger](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/swagger_ui.png)
 
 **MLflow — 8 experiment groups, 50 runs**
-![MLflow](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/mlflow_ui.png)
+![MLflow](https://github.com/theerealhenry/theerealhenry/blob/main/assets/mlflow_ui.png)
 
 **Railway Production Deployment**
 ![Railway](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/railway_deploy_1.png)
