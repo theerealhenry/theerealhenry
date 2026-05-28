@@ -59,7 +59,7 @@ Currently focused on financial risk intelligence for emerging markets.
 ![MLflow](https://github.com/theerealhenry/theerealhenry/blob/main/assets/mlflow_ui.png)
 
 **Railway Production Deployment**
-![Railway](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/railway_deploy_1.png)
+![Railway](https://github.com/theerealhenry/theerealhenry/blob/main/assets/railway_deploy_1.png)
 
 </details>
 
