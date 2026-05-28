@@ -53,7 +53,7 @@ Currently focused on financial risk intelligence for emerging markets.
 ![SHAP themes](https://github.com/theerealhenry/theerealhenry/blob/main/assets/shap_theme_importance.png)
 
 **Live Swagger UI**
-![Swagger](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/swagger_ui.png)
+![Swagger](https://github.com/theerealhenry/theerealhenry/blob/main/assets/swagger_ui.png)
 
 **MLflow — 8 experiment groups, 50 runs**
 ![MLflow](https://github.com/theerealhenry/theerealhenry/blob/main/assets/mlflow_ui.png)
