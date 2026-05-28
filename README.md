@@ -44,7 +44,7 @@ Currently focused on financial risk intelligence for emerging markets.
 <summary><strong>Screenshots — click to expand</strong></summary>
 
 **SHAP Global Feature Impact (beeswarm)**
-![SHAP beeswarm](https://raw.githubusercontent.com/theerealhenry/liquidity-stress-early-warning/main/docs/images/SHAP_global_summary_plot.png)
+![SHAP beeswarm](https://github.com/theerealhenry/theerealhenry/blob/main/assets/SHAP_global_summary_plot.png)
 
 **balance_slope Dependence Plot — the dominant signal**
 ![SHAP dependence](https://github.com/theerealhenry/theerealhenry/blob/main/assets/SHAP_dependence_plot_for_balance_slope.png)
